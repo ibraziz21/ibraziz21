@@ -21,6 +21,19 @@ I'm a passionate software developer with expertise in Blockchain Development, AI
 
 - ibraziz21@gmail.com
 - https://linkedin.com/in/ibraziz21
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibraziz21&show_icons=true&hide_title=true)
+
+## Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ibraziz21&column=7)
+
+## GitHub Activity Calendar
+
+![GitHub Activity Calendar](https://activity-graph.herokuapp.com/graph?username=ibraziz21)
+
  
 
 ## Project Showcase
