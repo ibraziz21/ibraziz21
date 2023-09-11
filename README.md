@@ -1,70 +1,56 @@
-# Hi there, I'm Ibrahim Aziz! 👋
+## Ibrahim Aziz - Blockchain Developer and Innovator
 
-I'm a passionate software developer with expertise in Blockchain Development, AI, Python, React/Postgres, and Android Apps.
+Welcome to my GitHub profile! I'm Ibrahim Aziz, a passionate blockchain developer and solutions architect with a strong focus on L2-scaling solutions and Decentralized Identifiers (DIDs). I'm dedicated to pushing the boundaries of blockchain technology and contributing to the decentralized future.
 
-## Skills and Technologies
+### 🚀 Featured Projects
 
-- Blockchain Development (Solidity, Ethereum, Web3, Hardhat, Diamond Standard)
-- React.js, Node.js, Express.js, PostgreSQL
-- Android App Development (Java, Kotlin)
-- HTML, CSS, JavaScript, TypeScript
-- Data Analysis and Visualization (Python, Pandas, Matplotlib)
+#### 1. The AquaPurge Project
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-PDF-blue)](https://aquapurge-project.gitbook.io/aqpp-whitepaper/)
+- The AquaPurge Project is a groundbreaking web3 initiative that aims to combat ocean pollution through innovative solutions. Explore the whitepaper to learn more about our vision and strategies.
 
-## Educational Credentials
+#### 2. Gamers DAO
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/digimindske/gamers-dao)
+- Gamers DAO is a web3 platform designed to empower users to create custom gaming experiences. It serves as a solution for interoperability between web3 games. Check out the GitHub repository for code and project details.
 
-- BSc. Informatics & Computer Science (Strathmore University)
-- Ethereum Blockchain Developer Bootcamp (Udemy)
-- Advanced Solidity: Yul & Assembly (Udemy)
-- Fundamentals of Decentralized Finance (Linkedin Learning)
+#### 3. Decentralized Credit Scores
+[![Scruffy Studios Article](https://img.shields.io/badge/Scruffy%20Studios-Article-lightgrey)](https://medium.com/coinmonks/decentralised-credit-scores-8c0439770fd3)
+- Experience a decentralized lending system where borrowers mint Score NFTs based on their credit scores, and lenders offer loans with varying terms. Dive into the Scruffy Studios article for insights into this innovative project.
 
-## Contacts
+#### 4. Smart Contract Breakdowns
+[![My Workspace](https://img.shields.io/badge/My%20Workspace-Article-orange)](https://miro.com/app/board/uXjVMu8gqC8=/?share_link_id=519860862171)
+- Explore a collection of articles where I demystify smart contracts, making them accessible even for beginners. These breakdowns provide valuable insights for anyone looking to understand and use smart contracts effectively.
 
-- ibraziz21@gmail.com
-- https://linkedin.com/in/ibraziz21
+#### 5. Diamond Standard Multisig Wallet
+[![Code](https://img.shields.io/badge/Code-Repo-blueviolet)](https://github.com/ibraziz21/dst-multisig)
+- Dive into the code of a small yet powerful project that enhances security by employing a strategy similar to "Both to Sign" in banks. This project aims to secure shared wallets effectively.
 
-## GitHub Stats
+#### 6. Blockchain Infrastructure: Bridges
+[![Article](https://img.shields.io/badge/Article-Read-red)](https://medium.com/coinmonks/web3-infrastructure-architecture-cross-chain-token-bridge-7696286a8999)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/ibraziz21/crossbridge)
+- Discover how bridges function in the blockchain ecosystem with this informative project. I created a bridge to facilitate communication between the Polygon Mumbai Testnet and the Mara Testnet.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibraziz21&show_icons=true&hide_title=true)
+#### 7. Modified ERC20 Token
+[![Article 1](https://img.shields.io/badge/Article%201-Read-blue)](https://medium.com/coinsbench/modifying-openzeppelins-erc20-smart-contract-5cf820e7e8a6)
+[![GitHub 1](https://img.shields.io/badge/GitHub%201-Repo-blueviolet)](https://github.com/Web3Talents/Week2-ModifiedERC20)
+- Explore articles about a modified ERC20 token project, adding unique features like taxes. These articles led to the development of the second version, which introduced innovative functions.
+[![Article 2](https://img.shields.io/badge/Article%202-Read-blue)](https://medium.com/coinmonks/modifying-erc20-smart-contracts-part-2-c5c3fb3c7479)
 
-## Project Showcase
+#### 8. NFT Diamond Standard Templates
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/ibraziz21/ERC721-Template-Minters)
+- As part of The AquaPurge Project, we're creating NFT Diamond Standard templates on Admin Mint, Public Mint, and Whitelist Only. Explore the GitHub repository for details.
 
-### Blockchain Development
+#### 9. ZKRollups Trials
+[![Article on zkRollups](https://img.shields.io/badge/Article%20on%20zkRollups-Read-blue)](https://medium.com/coinmonks/demystifying-zk-rollups-exploring-zksync-polygon-zkevm-and-starknet-5055c2047489)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/ibraziz21/ZKRollups-T-E)
+- Dive into experimental projects on ZKSync and Polygon zkEVM to understand how ZKRollups work practically. Explore the article and the GitHub repository for insights.
 
-#### Gamers DAO
-Solution to Interoperability between Games, allowing users to create their own custom web3 Game Experiences
+### 🌐 Connect with Me
 
+Feel free to explore these projects, ask questions, or collaborate with me on exciting blockchain ventures. Let's shape the decentralized future together!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ibraziz21/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/ibraziz21)
 
-#### AquaPurge Project
-Provides a platform where users can take geotagged photos of Areas polluted on the oceans and get rewards in Tokens
+Looking forward to connecting with fellow blockchain enthusiasts and innovators!
 
-
-### React/Postgres/Nodejs Projects
-
-#### Mvita Internal System
-Platform to tract requests brought by residents of Mvita to its Constituency Office
-
-
-
-#### Bulk Emailer 
-Node Project to send a bulk email to multiple Recepients
-
-#### AI Generated Emailer
-Node Project utilizing GPT to send personalized emails to a list of recepients at once
-
-
-
-### Python Projects
-
-#### Voter Check
-A python script that checks a list of people (with their ID numbers) if they are voters of Mvita Constituency 
-
-
-
-### Android Apps
-
-#### FundRaise
-An app used to raise funds for needed causes
-
-
-
+---
