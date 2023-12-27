@@ -1,12 +1,17 @@
 ## Ibrahim Aziz - Blockchain Developer and Innovator
 
-Welcome to my GitHub profile! I'm Ibrahim Aziz, a passionate blockchain developer and solutions architect with a strong focus on L2-scaling solutions and Decentralized Identifiers (DIDs). I'm dedicated to pushing the boundaries of blockchain technology and contributing to the decentralized future.
+Welcome to my GitHub profile! I'm Ibrahim Aziz, an experienced Web3 Engineer with a strong background in designing, implementing, and testing smart contracts. Proven expertise in
+collaborating with product development teams to ensure secure, efficient, and optimized smart contracts. Recognized for maintaining deployed smart contracts and staying abreast of the latest blockchain trends and standards.
+
+#### The AquaPurge Project
+[![Whitepaper](https://img.shields.io/badge/Whitepaper-PDF-blue)](https://aquapurge-project.gitbook.io/aqpp-whitepaper/)
+- The AquaPurge Project is a groundbreaking web3 initiative that aims to combat ocean pollution through innovative solutions. Explore the whitepaper to learn more about our vision and strategies.
 
 ### 🚀 Featured Projects
 
-#### 1. The AquaPurge Project
-[![Whitepaper](https://img.shields.io/badge/Whitepaper-PDF-blue)](https://aquapurge-project.gitbook.io/aqpp-whitepaper/)
-- The AquaPurge Project is a groundbreaking web3 initiative that aims to combat ocean pollution through innovative solutions. Explore the whitepaper to learn more about our vision and strategies.
+#### 1. Crypto Chamaa (TOP 5 in the Celo X Minipay Hackathon)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/ibraziz21/crypto-chama)
+- Chamaa is a trustless social savings platform that aims to provide a tool for fincancial inclusivity, especially in Africa.
 
 #### 2. Gamers DAO
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen)](https://github.com/digimindske/gamers-dao)
